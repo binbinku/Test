@@ -10,4 +10,6 @@
 
 ##### 不学也bei想活找
 
+[Hello](/hello.md)
+
 
